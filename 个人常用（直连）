@@ -1,0 +1,8 @@
+[Rule]
+# 本地直连域名
+DOMAIN-SUFFIX,ourbits.club,DIRECT
+DOMAIN-SUFFIX,piggo.me,DIRECT
+DOMAIN-SUFFIX,hhanclub.top,DIRECT
+
+# 国际节点规则
+DOMAIN-SUFFIX,gemini.google.com,"🇺🇸 美国节点"

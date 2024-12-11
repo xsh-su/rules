@@ -4,5 +4,5 @@ DOMAIN-SUFFIX,ourbits.club,DIRECT
 DOMAIN-SUFFIX,piggo.me,DIRECT
 DOMAIN-SUFFIX,hhanclub.top,DIRECT
 
-# 国际节点规则
+# 固定地区规则
 DOMAIN-SUFFIX,gemini.google.com,"🇺🇸 美国节点"

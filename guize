@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,piggo.me
+
+# 常规直连外网
+DOMAIN-SUFFIX,macpaw.com

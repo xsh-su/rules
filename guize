@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,piggo.me
 
 # 常规直连外网
 DOMAIN-SUFFIX,macpaw.com
+
+# 常规直连新内网
+DOMAIN-SUFFIX,deepseek.com

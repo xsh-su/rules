@@ -1,5 +1,6 @@
-# PT连接
+# PT代理
 DOMAIN-SUFFIX,ourbits.club
 
-# 常规连接
+# 常规代理
 #DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,movie-api.infuse.im

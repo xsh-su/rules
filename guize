@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,qingwapt.com
-DOMAIN-SUFFIX,piggo.me
+#DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,hdsky.me
 
 # 常规直连外网

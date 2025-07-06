@@ -1,5 +1,5 @@
 # PT代理
-#DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,ourbits.club
 
 # 常规代理
 #DOMAIN-SUFFIX,google.com

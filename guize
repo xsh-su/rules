@@ -17,3 +17,11 @@ DOMAIN-SUFFIX,macpaw.com
 DOMAIN-SUFFIX,115.com
 #DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,qq.com
+
+# 苹果定位不受vpn影响
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,gps.apple.com
+DOMAIN-SUFFIX,lbs.apple.com
+DOMAIN-SUFFIX,location.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com

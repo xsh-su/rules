@@ -7,3 +7,5 @@
 #DOMAIN-SUFFIX,api4.thetvdb.com
 DOMAIN-SUFFIX,yunwu.ai
 #DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,index.docker.io
+DOMAIN-SUFFIX,registry.hub.docker.com

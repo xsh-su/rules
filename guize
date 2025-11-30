@@ -27,6 +27,6 @@ DOMAIN-SUFFIX,lbs.apple.com
 DOMAIN-SUFFIX,location.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
 
-# 其他
+# 其他直连
 DOMAIN-SUFFIX,cdnfhnfile.115cdn.net
 DOMAIN-SUFFIX,115.com

@@ -18,14 +18,15 @@ DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,yra2.com
+DOMAIN-SUFFIX,linkcube.org
 
 # 苹果定位不受vpn影响
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,gps.apple.com
-DOMAIN-SUFFIX,lbs.apple.com
-DOMAIN-SUFFIX,location.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
+#DOMAIN-SUFFIX,apple.com
+#DOMAIN-SUFFIX,cdn-apple.com
+#DOMAIN-SUFFIX,gps.apple.com
+#DOMAIN-SUFFIX,lbs.apple.com
+#DOMAIN-SUFFIX,location.apple.com
+#DOMAIN,gspe1-ssl.ls.apple.com
 
 # 其他直连
 DOMAIN-SUFFIX,cdnfhnfile.115cdn.net

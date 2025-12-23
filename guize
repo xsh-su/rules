@@ -33,5 +33,5 @@ DOMAIN-SUFFIX,cdnfhnfile.115cdn.net
 DOMAIN-SUFFIX,115.com
 
 # 自己域名直连
-DOMAIN-SUFFIX,xiexxcn.com
-DOMAIN-SUFFIX,x1t.top
+DOMAIN-WILDCARD,xiexxcn.com
+DOMAIN-WILDCARD,x1t.top

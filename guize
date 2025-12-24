@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,yra2.com
 DOMAIN-SUFFIX,linkcube.org
+DOMAIN-SUFFIX,sub-store
 
 # 苹果定位不受vpn影响
 #DOMAIN-SUFFIX,apple.com
